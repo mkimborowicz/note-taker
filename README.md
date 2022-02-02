@@ -15,4 +15,4 @@ This note-taker app will help you get all your notes, thoughts, and to-do's orga
 
 **Link to Application:**
 
-https://dashboard.heroku.com/apps/mk-note-taker
+https://mk-note-taker.herokuapp.com/
